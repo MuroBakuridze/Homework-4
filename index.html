@@ -2,32 +2,44 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+		<link rel="stylesheet" href="Fonts/css/bpg-nino-mtavruli.min.css">
 		<title>დავალება 4</title>
 	</head>
 	<body>
 		<header>
-			<nav>
-				<ul>
-					<li>მთავარი</li>
-					<li>ბლოგი</li>
-					<li>ფოტოები</li>
+			<nav class="navigation">
+				<ul class="menu">
+					<a href="#">
+						<li class="main">მთავარი</li>
+					</a>
+					<a href="#">
+						<li class="blog">ბლოგი</li>
+					</a>
+					<a href="#">
+						<li class="images">ფოტოები</li>
+					</a>
 				</ul>
 			</nav>
 		</header>
 		<section>
 			<article>
-					<h1>Front End Development</h1>
-					<img src="Images/Codes.jpg">
-					<img src="Images/Coding.jpg">
-				<div>
+					<h1 class="headline">Front End Development</h1>
+				<div class="photos">
+					<img class="codes" src="Images/Codes.jpg">
+					<img class="coding" src="Images/Coding.jpg">
+				</div>
+				<div class="clause">
 					<p>ფრონტ ენდ დეველოპმენტი ერთ-ერთი მოთხოვნადი მიმართულებაა მსოფლიო ბაზარზე. კურსის ფარგლებში მსმენელს შესაძლებლობა ექნება დაეუფლოს და გაერკვეს ფრონტ ენდ დეველოპმენტის პრინციპებში და შეიძინოს ყველა საჭირო უნარი საკუთარი ვებ გვერდის ასაწყობად და ამ მიმართულებით კარიერის შესაქმნელად.</p>
-					<p>დეტალურად -></p>
+					<a href="https://smartacademy.ge/trainings/42-Front-End-Development-Html-Css-JS" target="_blanked">
+					<p class="detail">დეტალურად-></p>
+					<img class="line" src="Images/Line.jpg">
+					</a>
 				</div>
 			</article>
 		</section>
 		<footer>
-			<div>
-				<p><span>+995 555 555 555</span><span>info@test.ge</span></p>
+			<div class="info">
+				<p><span class="tel-number">+995 555 555 555</span><span>info@test.ge</span></p>
 			</div>
 		</footer>
 

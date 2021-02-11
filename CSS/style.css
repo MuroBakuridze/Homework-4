@@ -1,0 +1,104 @@
+* {
+margin: 0;
+padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.menu{
+	font-size: 25px;
+}
+.main{
+	color: #4AC20E;
+}
+.blog{
+	color: #3D58A6;
+}
+.images{
+	color: #3D58A6;
+}
+.headline{
+	border-color: #4AC20E;
+	border-width: 5px;
+	border-style: solid;
+	font-size: 30px;
+	color: #3D58A6;
+	border-radius: 10px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
+	padding-left: 30px;
+	margin-left: 25px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+.navigation{
+	margin-left: 25px;
+	margin-top: 25px;
+	margin-bottom: 18px;
+}
+.photos{
+	margin-left: 37px;
+	margin-bottom: 67px;
+}
+.codes{
+	margin-right: 70px;
+}
+.clause{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	/*font-weight: bold;*/
+	font-size: 22px;
+	color: #3D58A6;
+	margin-left: 25px;
+}
+.detail{
+	padding-top: 25px;
+}
+.info{
+	margin-top: 100px;
+	border-top: 1px solid #707070;
+	border-bottom: 1px solid #707070;
+	text-align: center;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	font-size: 25px;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
+}
+.tel-number{
+	margin-right: 30px; 
+}
+.line{
+	margin-bottom: 103px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
