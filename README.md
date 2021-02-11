@@ -1,2 +1,2 @@
 # Homework-4
-This is my first homework uploaded on Gitgub
+This is my first homework uploaded on Github
